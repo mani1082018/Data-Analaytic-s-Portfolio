@@ -1,59 +1,75 @@
-Walmart Customer Purchase Behavior Analysis
+Walmart E-Commerce Sales Analysis
 
-This project analyzes a Walmart e-commerce sales dataset to uncover customer purchasing behavior based on demographics like age, gender, marital status, and city. The goal is to demonstrate data cleaning, exploration, and visualization skills using Excel, SQL, and Power BI.
+Welcome! This is a real-world data analytics project where I explored purchasing patterns of Walmart's e-commerce customers. Using Excel and Power BI, I analysed key customer segments and visualized insights that can help inform business decisions.
+
+
+
+* Project Objective
+
+To analyse customer behaviour based on gender, age, city, occupation, and product categories, and present clear business insights through visual storytelling. This project simulates how a data analyst might support decision-making in a retail e-commerce setting.
+
 
 
 * Tools Used
-- Excel (Data cleaning & exploration)
-- Power BI (Interactive dashboards)
-- SQL (Optional: querying insights in database form)
-- GitHub (Project documentation)
+
+- Excel – For data cleaning, transformation, and pivot analysis
+- Power BI – For dashboard building and interactive visualisation
+- GitHub – To version and share the project
 
 
 
-* Objectives
-- Identify key customer segments by age, gender, and marital status
-- Analyze purchasing patterns by city and stay duration
-- Highlight top-performing product categories
-- Build a professional dashboard to visualize insights
+* Key Questions Explored
+
+- Which age group and gender contribute most to overall sales?
+- Which city generates the highest purchase volume?
+- Which product categories are the most popular?
+- Do occupation or marital status influence spending?
+- What's the average purchase value?
 
 
 
-* Dataset Overview
-- Source: [Kaggle Walmart E-commerce Dataset](https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset)  
-- Format: `.csv`
-- Rows: ~550,000 records  
-- Key columns:
-  - `User_ID`, `Product_ID`, `Gender`, `Age`, `Occupation`
-  - `City_Category`, `Stay_In_Current_City_Years`, `Marital_Status`
-  - `Product_Category`, `Purchase`
+* Key Insights
+
+- Male customers contribute a significantly higher share of purchases than female customers.
+- The 26–35 age group is the most active in terms of purchase volume.
+- City B leads with the highest revenue share (~41.5%).
+- Customers with Occupation Code 4 spend the most.
+- Product Category 1 dominates overall sales volume.
+- The average purchase value is around $9.26K per customer.
 
 
 
-* Key Insights (To Be Updated)
-- Which **age group** spends the most?
-- Does **gender** impact purchase behavior?
-- What are the **top cities** driving revenue?
-- How does **marital status** affect spending?
-- What are the most purchased **product categories**?
+* Files Included
 
-* Project Status
-- GitHub repo created  
-- Dataset under cleaning in Excel  
-- Initial analysis and pivot tables  
-- Dashboard build in Power BI  
-- Dashboard link and screenshots added here  
+- `walmart_customer_data_cleaned.xlsx`  
+  Cleaned data with added columns, renamed fields, and Excel pivot tables.
+
+- `Walmart_Ecommerce_Sales_Analysis.pbix`  
+  Power BI dashboard file with visuals for all major customer segments.
+
+- `dashboard_screenshot.png`  
+  Static image of the final dashboard (for preview purposes).
 
 
 
-* Next Steps
-- Clean and prepare data in Excel
-- Perform exploratory data analysis
-- Create visual dashboard in Power BI
-- Update README with insights and screenshots
-- Share project via portfolio and resume
+* Dashboard Preview
+dashboard_screenshot.png
 
 
 
-Project started: 16 July 2025  
-Created by: Manisha
+* Skills Demonstrated
+
+- Data cleaning & transformation  
+- Exploratory and segmentation analysis  
+- Pivot table analysis  
+- Dashboard design in Power BI  
+- Business insight storytelling  
+- GitHub documentation and project presentation
+
+
+
+* About This Project
+
+This project was created as part of my transition into the data analytics field. I wanted to demonstrate my ability to work with real-world e-commerce data, derive actionable insights, and communicate findings effectively through visuals.
+
+If you’d like to connect or collaborate - feel free to reach out!
