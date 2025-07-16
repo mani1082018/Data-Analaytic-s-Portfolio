@@ -1,0 +1,59 @@
+Walmart Customer Purchase Behavior Analysis
+
+This project analyzes a Walmart e-commerce sales dataset to uncover customer purchasing behavior based on demographics like age, gender, marital status, and city. The goal is to demonstrate data cleaning, exploration, and visualization skills using Excel, SQL, and Power BI.
+
+
+* Tools Used
+- Excel (Data cleaning & exploration)
+- Power BI (Interactive dashboards)
+- SQL (Optional: querying insights in database form)
+- GitHub (Project documentation)
+
+
+
+* Objectives
+- Identify key customer segments by age, gender, and marital status
+- Analyze purchasing patterns by city and stay duration
+- Highlight top-performing product categories
+- Build a professional dashboard to visualize insights
+
+
+
+* Dataset Overview
+- Source: [Kaggle Walmart E-commerce Dataset](https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset)  
+- Format: `.csv`
+- Rows: ~550,000 records  
+- Key columns:
+  - `User_ID`, `Product_ID`, `Gender`, `Age`, `Occupation`
+  - `City_Category`, `Stay_In_Current_City_Years`, `Marital_Status`
+  - `Product_Category`, `Purchase`
+
+
+
+* Key Insights (To Be Updated)
+- Which **age group** spends the most?
+- Does **gender** impact purchase behavior?
+- What are the **top cities** driving revenue?
+- How does **marital status** affect spending?
+- What are the most purchased **product categories**?
+
+* Project Status
+- GitHub repo created  
+- Dataset under cleaning in Excel  
+- Initial analysis and pivot tables  
+- Dashboard build in Power BI  
+- Dashboard link and screenshots added here  
+
+
+
+* Next Steps
+- Clean and prepare data in Excel
+- Perform exploratory data analysis
+- Create visual dashboard in Power BI
+- Update README with insights and screenshots
+- Share project via portfolio and resume
+
+
+
+Project started: 16 July 2025  
+Created by: Manisha
