@@ -1,0 +1,43 @@
+E-Commerce Sales Analysis Project
+
+This project explores an e-commerce sales dataset to identify key business insights and trends. The goal is to simulate a real-world business case for a data analyst role by showcasing data cleaning, exploration, and dashboard building using tools like Excel, SQL, and Power BI.
+
+*Tools Used
+- Excel (Data Cleaning)
+- SQL (Data Querying)
+- Power BI (Interactive Dashboard)
+- GitHub (Project Documentation)
+
+*Objectives
+- Analyze overall sales trends
+- Identify top-selling products and categories
+- Explore customer behavior
+- Build a dynamic dashboard with clear insights
+
+* Key Highlights
+- Monthly sales trend visualization
+- Product performance analysis
+- Customer segmentation
+- Actionable business recommendations
+
+* Dataset
+- Source: [Kaggle E-commerce Dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-ecommerce-sales-dataset)
+- Type: CSV format, includes order data, product categories, prices, and region.
+
+* Status
+- GitHub repo created  
+- Currently exploring the dataset  
+- Cleaning and preparing the data  
+- Power BI dashboard in progress
+
+* Next Steps
+- Complete data cleaning in Excel
+- Perform sales analysis with SQL
+- Create dashboard in Power BI
+- Add dashboard screenshots and summary insights here
+
+
+
+
+ Project started on: 16 July 2025  
+ Created by: Manisha 
