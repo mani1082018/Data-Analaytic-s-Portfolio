@@ -56,7 +56,7 @@ The idea was to replicate what a data analyst might do in a real-world retail se
 
 *Dashboard Sneak Peek
 
-[Dashboard_screenshot.png.png]
+[Dashboard_screenshot.png]
 
 
 * Skills Highlighted
